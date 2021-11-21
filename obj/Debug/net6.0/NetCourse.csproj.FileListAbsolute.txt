@@ -1,0 +1,15 @@
+C:\Source\Net\NetCourse\bin\Debug\net6.0\NetCourse.exe
+C:\Source\Net\NetCourse\bin\Debug\net6.0\NetCourse.deps.json
+C:\Source\Net\NetCourse\bin\Debug\net6.0\NetCourse.runtimeconfig.json
+C:\Source\Net\NetCourse\bin\Debug\net6.0\NetCourse.dll
+C:\Source\Net\NetCourse\bin\Debug\net6.0\ref\NetCourse.dll
+C:\Source\Net\NetCourse\bin\Debug\net6.0\NetCourse.pdb
+C:\Source\Net\NetCourse\obj\Debug\net6.0\NetCourse.csproj.AssemblyReference.cache
+C:\Source\Net\NetCourse\obj\Debug\net6.0\NetCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Net\NetCourse\obj\Debug\net6.0\NetCourse.AssemblyInfoInputs.cache
+C:\Source\Net\NetCourse\obj\Debug\net6.0\NetCourse.AssemblyInfo.cs
+C:\Source\Net\NetCourse\obj\Debug\net6.0\NetCourse.csproj.CoreCompileInputs.cache
+C:\Source\Net\NetCourse\obj\Debug\net6.0\NetCourse.dll
+C:\Source\Net\NetCourse\obj\Debug\net6.0\ref\NetCourse.dll
+C:\Source\Net\NetCourse\obj\Debug\net6.0\NetCourse.pdb
+C:\Source\Net\NetCourse\obj\Debug\net6.0\NetCourse.genruntimeconfig.cache
